@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書集傳纂疏
-#+DATE: 2015-09-23 09:36:05
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:02:37.347337
+#+PROPERTY: ID KR1b0027
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四上
 <pb:KR1b0027_WYG_004-1a>¶
 欽定四庫全書¶
 　書集傳纂疏卷四上　　　　元　陳櫟　撰¶
@@ -992,6 +994,7 @@
 　¶
 　¶
 　書集傳纂疏卷四上¶
+#+PROPERTY: JUAN 卷四下
 <pb:KR1b0027_WYG_004-56a>¶
 欽定四庫全書¶
 　書集傳纂疏卷四下　　　　元　陳櫟　撰¶
@@ -2018,4 +2021,3 @@
 　¶
 　¶
 　書集傳纂疏卷四下¶
-
